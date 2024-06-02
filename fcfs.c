@@ -60,7 +60,7 @@ int main(){
 }
 
 
-//SAMPLE OUTPUT
+/*SAMPLE OUTPUT
 Enter number of process:
 5
 Enter the name , arrival time and burst time of the processes:
@@ -77,3 +77,4 @@ NAME     AT      BT      CT      TAT     WT
 5        4       6       20      16      10 
 Average Waiting Time : 6.600000
 Average TurnAroundTime : 10.600000
+*/
